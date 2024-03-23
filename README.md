@@ -7,7 +7,7 @@ The objective of this project is to apply in practice what we learned during lec
 &nbsp; 2. The definition of the Design Document (DD) of the system considered in the previous point.
 
 # Project Specification
-CodeKataBattle (CKB) is platform designed to help students improve their software development skills by training with peers on code kata. Educators use the platform to challenge students by creating code kata battles in which teams of students can compete against each other, improving their skills.  
+CodeKataBattle (CKB) is a platform designed to help students improve their software development skills by training with peers on code kata. Educators use the platform to challenge students by creating code battles in which teams of students can compete against each other, improving their skills.  
 
 The full specification can be found [here](https://github.com/AlessandroGriffanti/CodeKataBattle-SE2-Project-2023/blob/main/Assignment%20RDD%20AY%202023-2024.pdf).
 
